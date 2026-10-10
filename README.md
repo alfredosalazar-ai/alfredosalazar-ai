@@ -1,73 +1,55 @@
 
+# Hi, I'm Alfredo Salazar Ruiz
 
-<!--
-**alfredosalazar-ai/alfredosalazar-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Research | Digital Transformation | Finance & Intelligent Automation
 
-Here are some ideas to get you started:
+Finance professional with over 20 years of experience, exploring how Artificial Intelligence and emerging technologies can transform complex business challenges into practical, data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work connects financial expertise, technology, process improvement, and responsible innovation.
 
+---
 
-Hi, I'm Alfredo Salazar Ruiz
+## About Me
 
-AI Research | Digital Transformation | Finance & Intelligent Automation
+- Over 20 years of experience in finance and business operations.
+- Background in financial reporting, process optimization, and agile methodologies.
+- Exploring Artificial Intelligence, Machine Learning, and intelligent automation.
+- Interested in practical AI applications for finance and business decision-making.
+- Committed to responsible AI, data integrity, and continuous learning.
 
-I'm a finance professional with over 20 years of experience in the financial sector, combining financial expertise, process optimization, and emerging technologies.
+## What I'm Exploring
 
-My professional interests focus on exploring how Artificial Intelligence, Machine Learning, and automation can improve operational efficiency, strengthen decision-making, and solve real-world business challenges.
+- Machine Learning and Deep Learning
+- Generative AI and Large Language Models
+- AI Agents and Intelligent Automation
+- Natural Language Processing
+- Model Evaluation and Optimization
+- Financial Analytics and Predictive Models
+- Responsible AI and Human Oversight
 
-About Me
+## AI Research Lab
 
-Currently exploring AI research, applied Machine Learning, and intelligent automation.
+This is my space to learn, experiment, document, and share.
 
-Interested in connecting mathematical foundations with practical business applications.
+Here you will find:
 
-Experienced in financial operations, process improvement, data analysis, and agile methodologies.
+- Research notes and technical explorations
+- Python and Machine Learning exercises
+- AI experiments and proof-of-concept projects
+- Practical applications in finance and process optimization
+- Lessons learned, limitations, and opportunities for improvement
 
-Committed to responsible AI, data integrity, and continuous learning.
+## My Approach
 
-Research & Learning Interests
+I believe that innovation starts with understanding the problem, not choosing the technology.
 
-Artificial Intelligence and Machine Learning
+My approach combines technical analysis, practical implementation, measurable outcomes, and continuous improvement.
 
-Deep Learning and Neural Networks
+**From complex problems to practical, responsible AI solutions.**
 
-Natural Language Processing and Generative AI
+## Connect
 
-Financial Analytics and Intelligent Automation
+[My GitHub Profile](https://github.com/alfredosalazar-ai)
 
-AI Governance, Ethics, and Human Oversight
-
-Model Evaluation and Optimization
-
-What You'll Find Here
-
-This GitHub profile documents my ongoing learning and experimentation through:
-
-Research Notes: Technical concepts, literature reviews, and critical analysis.
-
-Practical Exercises: Programming, algorithms, and Machine Learning experiments.
-
-AI Projects: Applied prototypes and proof-of-concept solutions.
-
-Financial Applications: Experiments connecting AI, financial analysis, and operational efficiency.
-
-My Approach
-
-I believe that technology creates value when it addresses a clearly defined problem.
-
-My work emphasizes practical implementation, measurable results, responsible use of AI, and continuous improvement.
-
-From complex problems to practical, data-driven solutions.
-
-Connect
-
-Open to exchanging ideas, discussing AI research, and collaborating on responsible technology applications.
+Open to exchanging ideas and collaborating on AI research and real-world applications.
+  
