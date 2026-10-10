@@ -1,4 +1,6 @@
 
+![Alfredo Salazar | AI Research & Digital Transformation](banner.png)
+
 # Hi, I'm Alfredo Salazar Ruiz
 
 ### AI Research | Digital Transformation | Finance & Intelligent Automation
