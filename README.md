@@ -1,5 +1,5 @@
 
-![Alfredo Salazar | AI Research & Digital Transformation](banner_asr.png)
+![Alfredo Salazar | AI Research & Digital Transformation](banner_IFIIA.png)
 
 # Hi, I'm Alfredo Salazar Ruiz
 
